@@ -1,4 +1,4 @@
-# UPAVP-PEMS    &nbsp;&nbsp;&nbsp;&nbsp;[APP LINK](https://github.com/imthiyasalamdev/Android-Projects-Archive/releases/tag/%40github%2Frelease-drafter-action)
+# UPAVP-PEMS    &nbsp;&nbsp;&nbsp;&nbsp;[APP LINK](https://github.com/ImthiyaszAlam/AndroidProjectsArchive/releases/tag/UPAVP-PEMS)
 
 # Uttar Pradesh Awas Vikas Parishad - Property Estate Management System
 
