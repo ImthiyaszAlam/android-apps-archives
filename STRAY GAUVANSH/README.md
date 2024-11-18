@@ -1,3 +1,3 @@
 # Hello
 
-## Projects In Progress
+## Project In Progress
