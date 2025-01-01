@@ -22,8 +22,8 @@ Android-Projects-Archive/
 ├── MELA/                       # Directory for MELA project 
 │   └── README.md                   # Overview and details about the MELA project
 │
-├── Project3/                       # Directory for Project3 (to be added)
-│   └── README.md                   # Overview and details about Project3
+├── SURVEYKSHAN /                       # Directory for SURVEYKSHAN      
+│   └── README.md                   # Overview and details about SURVEYKSHAN
 │
 └── README.md                       # Main README file for the repository
 
