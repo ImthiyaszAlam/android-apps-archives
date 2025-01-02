@@ -31,11 +31,12 @@ Android-Projects-Archive/
 ```
 
 
-Here’s a fixed and refined version of the **Technologies Used** section:
-
 ---
 
 ## 🛠️ Technologies Used
+---
+
+```plaintext
 
 - **Android SDK**: Core framework for Android application development.
 - **Programming Languages**: Java and Kotlin.
@@ -56,7 +57,7 @@ Here’s a fixed and refined version of the **Technologies Used** section:
   - Google Maps API for location-based functionalities.
 - **Version Control**: Git for managing and collaborating on code.
 
---- 
+```
 
 
 
