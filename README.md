@@ -36,7 +36,7 @@ Android-Projects-Archive/
 ## 🛠️ Technologies Used
 ---
 
-```plaintext
+
 
 - **Android SDK**: Core framework for Android application development.
 - **Programming Languages**: Java and Kotlin.
