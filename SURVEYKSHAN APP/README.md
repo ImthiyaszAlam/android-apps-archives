@@ -51,7 +51,7 @@ This project is a migration from Java to Kotlin and utilizes modern Android comp
 - **Programming Language**: Kotlin
 - **API Integration**: Retrofit, Volley
 - **Asynchronous Programming**: Coroutines
-- **Background Task Handling**: WorkManager
+- **Background Task Handling**: WorkManager , Service
 - **Error Logging**: Firebase Crashlytics
 - **Cloud Storage**: AWS
 - **UI Components**: Android Views, Custom UI for different question types
